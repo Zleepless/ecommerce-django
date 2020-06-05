@@ -1,7 +1,7 @@
 ﻿certifi==2019.6.16
 cfe==0.0.15
 chardet==3.0.4
-Django==2.2.3
+Django==2.2.13
 gitdb2==2.0.5
 GitPython==2.1.11
 idna==2.8
